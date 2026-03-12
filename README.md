@@ -1,6 +1,6 @@
-RU_ru
+RU_ru<br>
 Скрипт авто удаленя постов в ДЗЕН
-
+<br><br>
 Скрипт автоматически удаляет посты в дзен <br>
  <br>
 В страке "MAX_DELETE: 500" указываем кличество сколько постов надо удалить <br>
@@ -14,7 +14,7 @@ RU_ru
 
 EN_en <br>
 Script for automatic deletion of posts in Dzen
-
+<br><br>
 The script automatically deletes posts in Dzen <br> <br>
 In the line "MAX_DELETE: 500" specify the number of posts that need to be deleted <br> <br>
 The script is launched in the browser console on the page. In the URL, instead of "YOUR_LOGIN", enter your Dzen login https://dzen.ru/profile/editor/YOUR_LOGIN/publications?state=published <br> <br>
