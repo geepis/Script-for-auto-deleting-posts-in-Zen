@@ -13,17 +13,10 @@ RU_ru
  <br> <br> <br>
 
 EN_en <br>
-Script for Automatically Deleting Posts in Dzen <br>
- <br>
-This script automatically deletes posts in Dzen.
- <br>
-In the line const limit = 20;, specify how many posts you want to delete. <br>
- <br>
-Run the script in the browser console on the page: <br>
-https://dzen.ru/profile/editor/YOUR_LOGIN/publications <br>
- <br>
-Open the specified page, press F12, and select the Console tab. <br>
- <br>
-Paste the script into the console, press Enter, make yourself a cup of tea, and let the script do the work. <br>
- <br>
-Good luck! ☕ <br>
+Script for automatic deletion of posts in Dzen
+
+The script automatically deletes posts in Dzen <br> <br>
+In the line "MAX_DELETE: 500" specify the number of posts that need to be deleted <br> <br>
+The script is launched in the browser console on the page. In the URL, instead of "YOUR_LOGIN", enter your Dzen login https://dzen.ru/profile/editor/YOUR_LOGIN/publications?state=published <br> <br>
+Open the specified page, press "F12", select the "Console" tab <br> <br>
+Paste the script into the "console", press ENTER, drink some tea while the script works... Good luck <br> 
