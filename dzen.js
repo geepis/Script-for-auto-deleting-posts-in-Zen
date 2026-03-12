@@ -1,6 +1,7 @@
 (async () => {
   const CONFIG = {
-    DRY_RUN: false,            // Для теста ставим true, боевой режим false
+    DRY_RUN: false,            // Для теста ставим "true", боевой режим "false" (For testing, set to "true"; for production mode, "false".
+)
     MAX_DELETE: 500,
     OPEN_MENU_DELAY: 800,
     OPEN_DIALOG_DELAY: 900,
